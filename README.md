@@ -1,7 +1,7 @@
 Awesome CI
 ==========
 
-A curated list of awesome continuous integation services inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+A curated list of awesome continuous integration services inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 Continuous integration services 
 -----------------------------------
