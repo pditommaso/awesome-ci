@@ -12,5 +12,6 @@ Continuous integration services
 * [Codeship](https://codeship.io/)
 * [Drone.io](https://drone.io/)
 * [Shippable](http://www.shippable.com/)
+* [Snap-CI](https://www.snap-ci.com/)
 * [Travis-CI](https://travis-ci.org/) 
 * [Wrecker](https://app.wercker.com/#explore)
