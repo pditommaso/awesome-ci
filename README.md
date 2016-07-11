@@ -14,4 +14,4 @@ Continuous integration services
 * [Shippable](http://www.shippable.com/)
 * [Snap-CI](https://www.snap-ci.com/)
 * [Travis-CI](https://travis-ci.org/) 
-* [Wrecker](https://app.wercker.com/#explore)
+* [Wercker](https://app.wercker.com/#explore)
