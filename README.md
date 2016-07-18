@@ -6,7 +6,7 @@ A curated list of awesome continuous integration services inspired by [Awesome S
 Continuous integration services 
 -----------------------------------
 
-* [BuildBox](https://buildbox.io/) *
+* [Buildkite](https://buildkite.com/)
 * [CircleCI](https://circleci.com/)
 * [Cloudbees](http://www.cloudbees.com/)
 * [Codeship](https://codeship.io/)
