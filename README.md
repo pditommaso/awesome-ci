@@ -12,6 +12,7 @@ Continuous integration services
 * [Codeship](https://codeship.io/)
 * [Drone.io](https://drone.io/)
 * [Nimbleci.com](https://nimbleci.com/) - Build Docker Images. Fast.
+* [Screwdriver.cd](http://screwdriver.cd/)
 * [Shippable](http://www.shippable.com/)
 * [Snap-CI](https://www.snap-ci.com/)
 * [Travis-CI](https://travis-ci.org/) 
